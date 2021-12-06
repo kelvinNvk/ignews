@@ -11,3 +11,7 @@ Pacotes adicionais:
 5 - yarn add next-auth
 
 6 - yarn add @types/next-auth -D (situacional)
+
+
+
+// OBS: functions with next provider have some changes recently, the communication on auth with gh provider will be afflicted.(nextauth api)
