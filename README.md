@@ -15,3 +15,5 @@ Pacotes adicionais:
 
 
 // OBS: functions with next provider have some changes recently, the communication on auth with gh provider will be afflicted.(nextauth api)
+
+7 - yarn add faunadb
