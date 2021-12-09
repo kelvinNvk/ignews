@@ -21,3 +21,9 @@ Pacotes adicionais:
 8 - yarn add axios
 
 9 - yarn add @stripe/stripe-js
+----------------------------------------------------------------
+10 - yarn add @prismicio/client
+
+11 - yarn add prismic-dom
+
+12 - yarn add @types/prismic-dom -D
